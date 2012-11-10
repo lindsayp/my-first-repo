@@ -1,4 +1,4 @@
-giThis is a README file
+This is a README file
 ============
 
 and this is some __markdown__
@@ -6,4 +6,3 @@ and this is some __markdown__
 
 adding some song lyrics
 
-remove the text from this readme file
